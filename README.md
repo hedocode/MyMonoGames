@@ -15,6 +15,6 @@ This repository includes :
 
 - [hedocode/GameBase](https://github.com/hedocode/GameBase)
 - [Conway's game of life](./MonoGameBase2/GOLIFE/README.md)
-- [WoodenPong](https://github.com/hedocode/WoodenPong)
+- [hedocode/WoodenPong](https://github.com/hedocode/WoodenPong)
 - [hedocode/LotoHelper](https://github.com/hedocode/LotoHelper)
 - [A secret Game using "Windows"](./MonoGameBase2/EscapeTheWindow/README.md)
