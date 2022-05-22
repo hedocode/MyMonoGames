@@ -1,6 +1,10 @@
 # MyMonoGames
 Framework API and Games I made during my studies using MonoGame (2018)
 
+## Download (Windows)
+
+Look for the release section or click this : [Download](https://github.com/hedocode/MyMonoGames/releases/download/v0.0.0/MyMonoGames.zip)
+
 ## Context
 
 During my computer science studies at UCA, I've been doing little games and simulation using MonoGame.
