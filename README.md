@@ -3,7 +3,7 @@ Framework API and Games I made during my studies using MonoGame (2018)
 
 ## Download (Windows)
 
-Look for the release section or click this : [Download](https://github.com/hedocode/MyMonoGames/releases/download/v0.0.0/MyMonoGames.zip)
+Look for [the release section](https://github.com/hedocode/MyMonoGames/releases) or click this : [Download](https://github.com/hedocode/MyMonoGames/releases/download/v0.0.0/MyMonoGames.zip)
 
 ## Context
 
